@@ -152,7 +152,7 @@ The least significant bit of each image byte is modified to store secret message
 
 ---
 
-### 🔐 Stego Image
+### 🔐 Stego Encoded Image
 
 ![Stego Image](Images/beautiful_encoded.bmp)
 
